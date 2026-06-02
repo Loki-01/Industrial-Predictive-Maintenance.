@@ -1,0 +1,13 @@
+name: algeria-predict
+version: 0.1.0
+description: Predictive Maintenance platform for industrial assets.
+
+dependencies:
+  - fastapi
+  - uvicorn
+  - paho-mqtt
+  - pandas
+  - numpy
+  - scikit-learn
+  - torch
+  - influxdb-client
